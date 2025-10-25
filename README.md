@@ -312,9 +312,3 @@ Suggested mini-projects:
 **Facilitator Tip:** Assign as **group exercises**, discuss and review outputs.
 
 ---
-
-✅ **Optional Enhancements:**
-
-* Include **visual examples**: screenshots of prompts vs outputs  
-* Add **time allocations per section** for workshop pacing  
-* Include **facilitator notes**: discussion questions, common pitfalls, troubleshooting tips

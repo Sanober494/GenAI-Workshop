@@ -18,36 +18,6 @@ This ensures participants **learn theory and gain actionable skills**, making th
 
 ---
 
-## 📘 Table of Contents
-
-1. [Introduction](#1-introduction)
-   1.1 [What is Generative AI?](#11-what-is-generative-ai)
-   1.2 [Why it Matters](#12-why-it-matters)
-   1.3 [Current Applications Across Industries](#13-current-applications-across-industries)
-
-2. [Understanding Generative AI](#2-understanding-generative-ai)
-   2.1 [Large Language Models (LLMs)](#21-large-language-models-llms)
-   2.2 [Diffusion Models for Images and Music](#22-diffusion-models-for-images-and-music)
-   2.3 [Essential AI Terminology](#23-essential-ai-terminology)
-   2.4 [Visualization and Experimentation Tools](#24-visualization-and-experimentation-tools)
-
-3. [Prompt Engineering Masterclass](#3-prompt-engineering-masterclass)
-   3.1 [Defining a Prompt](#31-defining-a-prompt)
-   3.2 [Components of an Effective Prompt](#32-components-of-an-effective-prompt)
-   3.3 [Text and Code Prompts](#33-text-and-code-prompts)
-   3.4 [Creative Prompts: Images and Music](#34-creative-prompts-images-and-music)
-   3.5 [Advanced Prompting Techniques](#35-advanced-prompting-techniques)
-   3.6 [Best Practices and Iterative Refinement](#36-best-practices-and-iterative-refinement)
-
-4. [Applications, Careers, and Portfolio Development](#4-applications-careers-and-portfolio-development)
-   4.1 [Prompt Engineering as a Career](#41-prompt-engineering-as-a-career)
-   4.2 [AI-Assisted Software Development Tools](#42-ai-assisted-software-development-tools)
-   4.3 [Building a Personal AI Project Portfolio](#43-building-a-personal-ai-project-portfolio)
-   4.4 [Ethics, Bias, and Responsible AI Use](#44-ethics-bias-and-responsible-ai-use)
-
-5. [Recommended Tools and Platforms](#5-recommended-tools-and-platforms)
-
-6. [Appendix: Templates, Exercises, and Challenges](#6-appendix-templates-exercises-and-challenges)
 
 ---
 

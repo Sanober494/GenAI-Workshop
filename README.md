@@ -4,7 +4,7 @@
 
 # 🎨 Unlocking Creativity with Generative AI: The Power of Prompt Engineering
 
-**Note: this is a facilitators guide, we will refine it once the students who are taking the workshop go through with this.**
+
 
 It covers:
 
@@ -14,7 +14,7 @@ It covers:
 * Practical exercises, templates, and best practices
 * Tools and platforms for experimentation and portfolio building
 
-This ensures participants **learn theory and gain actionable skills**, making them confident in experimenting, coding, designing, and creating with AI.
+
 
 ---
 
@@ -153,7 +153,7 @@ Prompt engineering develops a **practical, problem-solving mindset**—essential
 
 ✅ Result: Concise, functional code with clean logic
 
-**Facilitator Tip:** Demonstrate **iterative refinement** — start with a vague prompt, show output, refine step-by-step.
+
 
 ---
 
@@ -178,7 +178,6 @@ Prompt engineering develops a **practical, problem-solving mindset**—essential
 
 > “Generate professional documentation for this function. Include input, output, and time complexity.”
 
-**Facilitator Tip:** Show **before-and-after outputs**.
 
 ---
 
@@ -197,7 +196,7 @@ Prompt Examples:
 
 > “Create an upbeat lo-fi track with soft piano, chill beats, and female vocals.”
 
-**Facilitator Tip:** Let students experiment with adjectives to see output variations.
+
 
 ---
 
@@ -211,7 +210,7 @@ Prompt Examples:
 | Multi-turn prompting       | Refine outputs iteratively                | “Add comments.” → “Now make it modular.”                              |
 | Constraint-based prompting | Specify boundaries                        | “Generate only 3 bullet points under 20 words each.”                  |
 
-**Facilitator Tip:** Conduct **live demo** showing small prompt changes impact outputs.
+
 
 ---
 
@@ -233,7 +232,7 @@ Prompt Examples:
 * Tasks: Optimize prompts, build AI workflows, train internal models  
 * Companies: OpenAI, Anthropic, Adobe, Startups  
 
-**Facilitator Tip:** Show **job postings** and skills: Python, LLM understanding, prompt tuning.
+
 
 ---
 
@@ -246,7 +245,7 @@ Prompt Examples:
 | Amazon CodeWhisperer     | Contextual code generation        |
 | Tabnine                  | AI-driven autocompletion for IDEs |
 
-**Teaching Tip:** Combine with prompt engineering to speed up coding/debugging.
+
 
 ---
 
@@ -260,7 +259,7 @@ Suggested mini-projects:
 
 **Hosting:** GitHub, Notion, personal website  
 
-**Facilitator Tip:** Document successes **and failures** — shows learning progression.
+
 
 ---
 
@@ -270,8 +269,6 @@ Suggested mini-projects:
 * Avoid plagiarism; cite sources  
 * Verify generated information  
 * Respect copyright & licensing  
-
-**Facilitator Tip:** Discuss: “When can AI be trusted?”
 
 ---
 
@@ -286,7 +283,7 @@ Suggested mini-projects:
 | RunwayML            | AI video generation     | [runwayml.com](https://runwayml.com)                   |
 | Hugging Face Spaces | Model demos             | [huggingface.co/spaces](https://huggingface.co/spaces) |
 
-**Facilitator Tip:** Demonstrate **live tool usage**.
+
 
 ---
 
@@ -309,6 +306,6 @@ Suggested mini-projects:
 2. Generate **3 variations of the same image** using small prompt changes.  
 3. Write a **single prompt** that combines text, code, and design outputs.
 
-**Facilitator Tip:** Assign as **group exercises**, discuss and review outputs.
+
 
 ---
